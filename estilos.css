@@ -1,18 +1,26 @@
 body {
   background-color: linen;
+  margin: 50px 200px 50px 200px;
 }
 
 h1#vagasEmprego{
   color: rgb(77, 0, 0);
   text-align: center;
+  margin: 50px 200px 50px 200px;
 }
 
 p{
   border: 2px solid  black;
   text-align: justify;
+  margin: 80px 200px 20px 200px;
 }
 p.solid {outline-style: solid;}
 
 li {
   text-transform: capitalize;
+  margin: 20px 200px 20px 200px;
+}
+
+div#conteudo{
+  background-color: white;
 }
